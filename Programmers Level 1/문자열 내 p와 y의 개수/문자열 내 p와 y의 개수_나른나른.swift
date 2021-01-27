@@ -2,8 +2,6 @@
 
 import Foundation
 
-import Foundation
-
 func solution(_ s:String) -> Bool
 {
   var countP: Int = 0
